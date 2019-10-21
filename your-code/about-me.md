@@ -4,6 +4,7 @@ Juliette
 * Where are you from?
 I'm originally from the Netherlands, but have been living in Spain for the last 10 years.
 
+<<<<<<< HEAD
 * What do you do?
 I work as a business analyst for an international Japanese company
 
@@ -32,3 +33,4 @@ Hopefully my future role will be of a data analyst, but including education.
 * What is your career goal?
 In the end my career goal is to set up my own company, specialised in my own fashion brand.
 Data-analytics will be helpful for this as well.
+
