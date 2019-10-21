@@ -1,8 +1,10 @@
+FIXED
 # Who am I 
 
 * Where are you from? Portugal
 * What do you do? Just finished my degree in Economics
 * Do you have previous experience with technology/data? Apart from my interest in the area I don't have experience
+
 
 # Why am I here
 
@@ -14,3 +16,5 @@
 * Which industry will you seek employment in? Banking or Consulting areas
 * What will your future role look like? Not something related just to Economics or Data Analysis but something were I can mix the two things
 * What is your career goal? Top manager in a big company.
+
+
