@@ -1,5 +1,6 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
+<<<<<<< HEAD
 # Who am I
 
 * Where are you from?Portugal
@@ -18,3 +19,4 @@ I will try to get a job as a data analyst
 * Which industry will you seek employment in? Consulting.
 * What will your future role look like? 
 * What is your career goal? Become a data scientist. 
+
