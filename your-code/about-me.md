@@ -1,3 +1,5 @@
+David is a passionate, honest, web developer musician and financier.
+
 # Emiri Dandoy
 
 * Where are you from? Born and raised in Tokyo but living in San Francisco.
