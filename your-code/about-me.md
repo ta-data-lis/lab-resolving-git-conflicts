@@ -4,7 +4,6 @@ NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
 * Where are you from?
 
-<<<<<<< HEAD
 My name is Mattia Lobascio and I am 28.
 
 I am from Italy, but currently living in Lisbon.
