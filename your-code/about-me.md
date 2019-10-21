@@ -1,5 +1,3 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
-
 # Who am I 
 
 * Where are you from? Portugal
