@@ -1,4 +1,4 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
+NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT
 
 Hi guys, my name is Mariana! I came from the biology field, and now I'm looking for my new challenge.
 
