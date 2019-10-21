@@ -4,6 +4,7 @@ NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
 * Where are you from?
 
+<<<<<<< HEAD
 My name is Mattia Lobascio and I am 28.
 
 I am from Italy, but currently living in Lisbon.
@@ -39,3 +40,4 @@ Junior Data Analyst, with constinuous formation to become a full-stack Data Scie
 * What is your career goal?
 
 Independent Consultant in Data Science for social or environmental causes/projects/companies.
+
