@@ -1,5 +1,5 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
-Carla is a passionate, honest, web developer musician and financier.
+Hi guys, my name is Mariana! I came from the biology field, and now I'm looking for my new challenge.
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+My perfect day involves Netflix and fast food!
