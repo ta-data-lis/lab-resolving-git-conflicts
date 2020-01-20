@@ -14,3 +14,10 @@ Who am I- Elvira
 * Which industry will you seek employment in? non
 * What will your future role look like? be part of the new division in data science
 * What is your career goal? be one of the data science experts in my company
+
+
+ In Sum
+Elvira is a passionate about alot, mostly honest, economist and traveler.
+
+Learning new methods about data analysis is just mind blowing.
+
