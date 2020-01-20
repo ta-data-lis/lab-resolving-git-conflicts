@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Who am I
 
 <<<<<<< HEAD
@@ -30,3 +31,6 @@ I hope to get a job as data analyst in some company taht will let me keep growin
 Any industry that will chalenge me every single day into becoming a better Data Analyst, and if possible give me a possibility to keep learning about life.
 I want to somewhere in the future be a person who others can rely on. I want to inspire people who love life and want to make life better for other.
 My carrer goal for the nearest future is to work with Bilogical Data or just Data and sharpen my skills after the bootcamp, and after that be able to work with Artificial Inteligence.
+=======
+
+>>>>>>> f8b59203c8650b57aaffb7c7db1c9726ab10e57d
