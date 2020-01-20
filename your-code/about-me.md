@@ -1,7 +1,10 @@
 # Who am I
 
+
 * Where are you from?
 I'm from Brazil.
+
+Carla is a passionate, honest, amazing, web developer musician and financier.
 
 * What do you do?
 At the moment I just graduated and I'm just doing this bootcamp.
