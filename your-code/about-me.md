@@ -4,6 +4,8 @@
 * What do you do? Study data analytics
 * Do you have previous experience with technology/data? No
 
+Carla is a passionate, honest, web developer musician and financier.
+
 # Why am I here
 
 * What has brought you to Ironhack? To study data analytics
