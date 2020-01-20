@@ -1,8 +1,12 @@
 # Who am I
 
+<<<<<<< HEAD
 * Where are you from?
 * What do you do?
 * Do you have previous experience with technology/data?
+=======
+Al is a passionate, honest, Data Analyst, Biologist and Nature Lover.
+>>>>>>> 090a5ded98c6da9bf0ca91e455052d12914a5f2d
 
 # Why am I here
 
