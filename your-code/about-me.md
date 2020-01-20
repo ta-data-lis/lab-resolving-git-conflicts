@@ -1,10 +1,11 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
+## About Me
 
-Carla is a passionate, honest, web developer musician and financier.
+I'm a human being.
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+I am not a robot.
 
-This line will conflict with the branch "toConflict"
-This a change to be synced with remote -  and now will conflict with master on the event of a merge
+I can successfully solve captchas 99.3% of the tries.
 
-###the conflict has been mannualy resolved
+I want to learn data analysis methodology so I can help build software that will improve peoples lives.
+
+Expecting to apply modelling to solve complex problems soon enough.
