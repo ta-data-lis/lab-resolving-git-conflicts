@@ -1,5 +1,4 @@
-# Who am I?
-I'm Matheus Cabral.
+# Who am I
 
 
 * Where are you from?
