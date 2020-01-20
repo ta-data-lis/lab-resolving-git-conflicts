@@ -1,5 +1,1 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
-
-Carla is a passionate, honest, data analyst, musician and financier.
-
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+I am Filipe from Brazil. I am a manufacturing engineer without any experience with IT or Data. I came to Ironhack to add up new skills to my current carrer. By the end of the course I expect to be able to analyse data from machines and other factory equipaments in order to improve the manufacturing process. I will be looking for a job either at the manufacturing industry as a manufacturing engineer with focus on data analysis or directly as a Data Analyst.
