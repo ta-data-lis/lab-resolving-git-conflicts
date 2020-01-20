@@ -1,5 +1,16 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
+Who am I- Elvira
 
-Carla is a passionate, honest, web developer musician and financier.
+* Where are you from? Switzerland
+* What do you do? Consulting goverments and NGO in political and eocnomical questions
+* Do you have previous experience with technology/data? statistic from master in economics
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+# Why am I here
+
+* What has brought you to Ironhack? motivation to get more and more up-to-date knowledge in analaysing data
+* What knowledge/skills do you expect to learn in this bootcamp? broath background in new data analysis methods
+
+# What will I do after the bootcamp? go back to my job and try to establish a new division in data science with other co-workers 
+
+* Which industry will you seek employment in? non
+* What will your future role look like? be part of the new division in data science
+* What is your career goal? be one of the data science experts in my company
