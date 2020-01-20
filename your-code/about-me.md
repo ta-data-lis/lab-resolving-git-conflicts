@@ -1,5 +1,6 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
+<<<<<<< HEAD
 # I am José
 
 * I am from Portugal but have lived all my adult life in Lisbon
@@ -16,3 +17,8 @@ NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 * I would like to seek a job in the tech Industry as either a data analyst or in Business Analytics. 
 * In my future role I would like to be the one searching for answers to complex problems, to get datasets and extract information from it, and be able to take decisions based on extracted information. 
 * My carreer goal is to be able to be a valuable asset to most tech companies, and to be able to work anywhere in the world, as an employee or as a freelancer. 
+=======
+Jose is a young Business Bachelor that wants to go into tech. 
+
+To do so, he joined Ironhack.
+>>>>>>> e0f936c132ace566422631877fc990c397dcbe06
