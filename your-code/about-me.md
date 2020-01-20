@@ -1,5 +1,5 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
-Carla is a passionate, honest, web developer musician and financier.
+Elvira is a passionate about alot, mostly honest, economist and traveler.
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+Learning new methods about data analysis is just mind blowing.
