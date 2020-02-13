@@ -16,4 +16,4 @@ NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
     * Which industry will you seek employment in? tech
     * What will your future role look like? a mix of data analytics and sales
-    * What is your career goal?
+    * What is your career goal? to define
