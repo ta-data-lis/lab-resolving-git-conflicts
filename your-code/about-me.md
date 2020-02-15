@@ -1,5 +1,3 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
-
 Catarina is a passionate, honest, student.
-
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+My name is Catarina, but please call me Cat.
+I had a bit of a hard time getting some confilicts to solve but am hoping this will finally get it!
