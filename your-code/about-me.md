@@ -1,5 +1,5 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
-Carla is a passionate, honest, web developer musician and financier.
+I'm Chris, I'm from Swansea in the UK (currently based in Edinburgh) and I'm curently working for a bank. I have very little experience in data, and none in technology
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+I'm here to become better at data anlysis in my job, and learn skills beyond Excel, with the hope of moving into a more data-based role in the current company I work for.
