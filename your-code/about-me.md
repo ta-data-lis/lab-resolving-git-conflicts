@@ -1,5 +1,3 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
+NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS -Christopher Howells
 
-Carla is a passionate, honest, web developer musician and financier.
-
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+Chris is currently working for a bank, and currently learning to code to become better at data anlaysis.
