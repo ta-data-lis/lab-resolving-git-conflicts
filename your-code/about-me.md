@@ -1,5 +1,11 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
+I am Mariona
 
-Carla is a passionate, honest, web developer musician and financier.
+I am from Barcelona, I work in an eyewear company as a controller.
+I never had tech experience.
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+I started working with PBI and realized how much
+potential there is using BI tools so I wonder what I could
+do if Knew Python and others.
+
+After bootcam I hope I can find a better job where I can
+work remotely and climb as much as I can.
