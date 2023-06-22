@@ -1,5 +1,5 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
-Carla is a passionate, honest, web developer musician and financier.
+Aris is a on old man. He came to Portugal on Feb. 2023 to start a new chapter.
 
-Learning the new tech world lingo and pursuing all passions while trying to watch all the top 250 movies she can find.
+He doesn't know much about Python, but is willing to learn (or die from caffeine trying).
